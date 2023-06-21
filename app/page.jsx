@@ -8,7 +8,7 @@ const Home = () => (
       <span className='purple_gradient text-center'> AI-Powered Prompts</span>
     </h1>
     <p className='desc text-center'>
-      SharedPrompt is an open-source AI prompting tool for modern world to
+      SharedPrompt is an open-source AI prompting tool for people to
       discover, create and share creative prompts
     </p>
 
